@@ -1,0 +1,75 @@
+body{
+	background-color: #FDEAC8;
+}
+
+.inicio{
+	font-family: serif;
+	font-size: 80px;
+	text-align: center;
+	color: #022B77;
+}
+
+.header{
+	width: 1000px;
+}
+
+.sleepset{
+	font-family: serif;
+	font-size: 40px;
+	text-align: center;
+	color: #022B77;
+}
+
+.sleep{
+	font-size: 20px;
+	text-align: center;
+	color: orange;
+}
+
+.sleepdraw{
+	width: 300px;
+}
+
+.foodset{
+	font-family: serif;
+	font-size: 40px;
+	text-align: center;
+	color: #022B77;
+}
+
+.food{
+	font-size: 20px;
+	text-align: center;
+	color: orange;
+}
+
+.fooddraw{
+	width: 300px;
+}
+
+.shopset{
+	font-family: serif;
+	font-size: 40px;
+	text-align: center;
+	color:#022B77;
+}
+
+.shop{
+	font-size: 20px;
+	text-align: center;
+	color: orange;
+}
+
+.shopdraw{
+	width: 300px;
+}
+
+.footer{
+	font-family: arial;
+	font-size: 15px;
+	color: white;
+	background-size: all;
+	background-color: #F9B85C;
+	text-align: center;
+	padding: 10px;
+}
